@@ -11,6 +11,6 @@ package com.iker.mavenproject1;
  */
 public class NewClass {
     public static void main(String[] args) {
-        System.out.println("vsdf");
+        System.out.println("VersionFInal");
     }
 }
